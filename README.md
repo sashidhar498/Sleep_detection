@@ -83,13 +83,19 @@ There are two scripts, `full_face.py` and `full_face2.py`, which provide a sligh
 ```
 project-root/
 │
-├── requirements.txt        # Dependency file
-├── statistical.py          # Morning face tracking script
-├── statistical_night.py    # Nighttime face tracking script
-├── full_face.py            # Visual variant 1
-├── full_face2.py           # Visual variant 2
-├── images/                 # Folder to store test images
-└── <place downloaded files here>
+├── beep.wav                                # Audio file for sound notifications
+├── densenet201_binary_classification_softmax_final.h5 # Pretrained model
+├── EAR.py                                  # Eye Aspect Ratio calculation script
+├── MAR.py                                  # Mouth Aspect Ratio calculation script
+├── face_detect.py                          # Basic face detection script
+├── full_face.py                            # Visual representation variant 1
+├── full_face2.py                           # Visual representation variant 2
+├── shape_predictor_68_face_landmarks.dat   # Facial landmarks predictor
+├── statistical.py                          # Morning face tracking script
+├── statistical_images.py                   # Image-based face tracking
+├── statistical_night.py                    # Nighttime face tracking script
+└── images/                                 # Folder to store test images (user-created)
+
 ```
 
 ---
