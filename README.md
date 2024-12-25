@@ -18,7 +18,7 @@ cd <repository-folder>
 ```
 
 ### 2. Download required files from Google Drive
-- Access the [Google Drive link](<insert-drive-link-here>) to download the required files.  
+- Access the [Google Drive link](<https://drive.google.com/drive/folders/1HUZu6Cn-0SgX7oWAUT9DsKhKb2f4bUmb?usp=drive_link>) to download the required files.  
 - Place these files in the root directory of this project after downloading.
 
 ### 3. Install dependencies
