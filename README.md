@@ -13,8 +13,8 @@ Due to file size limitations, **two important files are hosted separately on a G
 Start by cloning the repository to your local machine. Open your terminal and run:
 
 ```bash
-git clone <repository-link>
-cd <repository-folder>
+git clone https://github.com/sashidhar498/face_tracking.git
+cd face_tracking
 ```
 
 ### 2. Download required files from Google Drive
