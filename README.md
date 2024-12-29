@@ -1,7 +1,7 @@
 
-# Face Tracking Application
+# Sleep Detection Application
 
-Welcome to the **Face Tracking Application**! This repository contains files and scripts to help you implement face tracking functionality for different lighting conditions (morning and night).
+Welcome to the **Sleep Detection Application**! This repository contains files and scripts to help you implement face tracking functionality for different lighting conditions (morning and night).
 
 This project is developed by [Sabbu Sashidhar](<https://github.com/sashidhar498/sashidhar498>) and [Aluri Sri Moukthika](<https://github.com/SriMoukthika12>)
 
